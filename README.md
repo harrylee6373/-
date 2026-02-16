@@ -6,8 +6,8 @@
 - 附加阿扎泽尔、艾拉瑞丽与妙影的导师compendium的流程与代码（如果卡任务进度流程就输代码执行）。
 - 持续追踪最新版，如果有mod或汉化更新，将在更新文件夹里更新下载替换旧版。<br>
 > 下载地址：<br>
-[百度云盘](https://pan.baidu.com/s/1XC0R74UWkCWW3-m2rTNVRA) 提取码: dlxl <br>
-[小飞机网盘](https://share.feijipan.com/s/ppQeCsts)<br>
+- [百度云盘](https://pan.baidu.com/s/1XC0R74UWkCWW3-m2rTNVRA) 提取码: dlxl <br>
+- [小飞机网盘](https://share.feijipan.com/s/ppQeCsts)<br>
 
 
 
